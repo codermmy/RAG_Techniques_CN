@@ -12,6 +12,10 @@
 !LICENSE
 !*.gif
 !all_rag_techniques
+!all_rag_techniques_cn
+!all_rag_techniques_cn_friendly
+!all_rag_techniques_runnable_scripts
+!all_rag_techniques_runnable_scripts_cn
 !data
 !evaluation
 !images
