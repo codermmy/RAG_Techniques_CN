@@ -23,3 +23,12 @@
 __pycache__/
 __init__.py
 
+# 中文版特定文件
+!.gitignore
+!README.md
+!README_CN.md
+!README_for_CN.md
+!all_rag_techniques_cn/
+!all_rag_techniques_cn_friendly/
+!all_rag_techniques_runnable_scripts_cn/
+
